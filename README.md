@@ -8,7 +8,7 @@ Authors: Dongdong Zhang, Xinyu Yang, Yuanbo Tang, Naifan Zhang, Yiwen Liu, Feifa
 
 ## 📘 Paper
 - [PDF Download](./paper.pdf)  <!-- 这里可以放本地路径，也可以替换成 arXiv / 会议链接 -->
-- (If accepted) To appear in *EURASIP 2025*.  
+- To appear in *EURASIP 2025*.  
 
 ---
 
