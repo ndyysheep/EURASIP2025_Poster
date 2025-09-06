@@ -8,7 +8,7 @@ Authors: Dongdong Zhang†, Xinyu Yang†, Yuanbo Tang, Naifan Zhang, Yiwen Liu,
 ---
 
 ## 📘 Paper
-- [Download PDF](./https://github.com/ndyysheep/EURASIP2025_Poster/blob/main/Inter-Departmental%20Ticket%20Processing%20Time%20Prediction%20using%20Multi-Task%20Learning.pdf)  
+- [Download PDF](./Inter-Departmental%20Ticket%20Processing%20Time%20Prediction%20using%20Multi-Task%20Learning.pdf)
 - (To appear in *EURASIP 2025*)
 
 ---
